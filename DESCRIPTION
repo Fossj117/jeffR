@@ -1,0 +1,14 @@
+Package: jeffR
+Title: This is Jeff's R package of basic utility functions 
+Version: 0.0.0.9000
+Authors@R: person("Jeff", "Fossett", email = "fossj117@gmail.com", role = c("aut", "cre"))
+Description: This package has utilities that Jeff find's helpful. 
+Depends: R (>= 3.4.3)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
+Imports:
+    ggplot2,
+    ggthemes
+
